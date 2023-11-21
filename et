@@ -1,0 +1,12 @@
+[33md3fa52e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to d3fa52e023ef31df08d4b5c3e0b319037c08a0d9
+[33m8b17548[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{1}: commit: Undo move contents to docs
+[33m5ff9870[m HEAD@{2}: pull --rebase origin main (finish): returning to refs/heads/main
+[33m5ff9870[m HEAD@{3}: pull --rebase origin main (pick): Move build artifacts to docs folder
+[33md3fa52e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{4}: pull --rebase origin main (start): checkout d3fa52e023ef31df08d4b5c3e0b319037c08a0d9
+[33m13c5009[m HEAD@{5}: commit: Move build artifacts to docs folder
+[33m4c151b3[m HEAD@{6}: commit: Deploy to GitHub Pages
+[33m9f9a800[m HEAD@{7}: Branch: renamed refs/heads/main to refs/heads/main
+[33m9f9a800[m HEAD@{9}: commit: inital commit
+[33m927eb61[m HEAD@{10}: Branch: renamed refs/heads/master to refs/heads/main
+[33m927eb61[m HEAD@{12}: commit: first commit
+[33m4f9237f[m HEAD@{13}: commit (initial): Initialize project using Create React App

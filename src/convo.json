@@ -1,0 +1,65 @@
+
+{ 
+"staring":{
+   "background": "/src/background/4.png",
+    "id": "1",
+    "convo":[""]
+},
+"s1room":{
+    "id": "1",
+    "background": ["/src/background/5.png","/src/background/6.png"],
+    "convo":[ "...",
+    "Happy Birthday! Someone is turning 22 heh. ",
+    "I've got a little surprise waiting for you in town.",
+    "Lets gooo"]
+},
+"s2street":{
+    "id": "2",
+    "background": ["/src/background/7.png"],
+    "convo":[ "I see that you made it.",
+    "Ok first lets pick up your present at the nursery!"
+    ]
+},
+"s3nursery":{
+    "id": "3",
+    "background": ["/src/background/8.png","/src/background/9.png","/src/background/10.png","/src/background/11.png"],
+    "convo":["Hi, welcome to PHatPlants!",
+    "Hi I'm here to pick up an order for Annthea..",
+    "Oh so you are the birthday girl! I have your present packed and ready for you!",
+"Ur lil sis pick out a baby catus for you! Aint it adorable.",
+" She asked me to pass on a message that ur catsus in Singapore are still suurviving hahaha.",
+"Anyways, here you go all packed up for the birthday girl. Have a great day ahead!!"]
+},
+"s4street":{
+    "id": "4",
+    "background": ["/src/background/12.png"],
+    "convo":[ "ooo you've got it. Hope you like it! Aint no artist ye",
+    "Alright now lets go to the cafe. You gotta at least blow them candles amright."
+    ]
+},
+"s5scafe":{
+    "id": "5",
+    "background": ["/src/background/13.png","/src/background/14.png","/src/background/15.png","/src/background/16.png","/src/background/17.png","/src/background/18.png"],
+    "convo":[ "Welcom...Annthea! Your here! We have been waiting for you all day!",
+    "let me get the cake...",
+    "Ta da .A special cake for a special day!",
+    "~lighting the candle",
+    "Happy birthday to youuu , Happy BIRTHDAY~~",
+    "Come now blow the candles!",
+    "Dont forget to make a wish",
+    "Alright now, you go have an amazing day! You dont get to be 22 twice >< "
+    ]
+},
+"s6street":{
+    "id": "6",
+    "background": ["/src/background/19.png", "/src/background/20.png","/src/background/21.png"],
+    "convo":["tuk tuk tuk~ going homee"]
+},
+"s7home":{
+    "id": "7",
+    "background": ["/src/background/22.png"],
+    "convo":["Welcome back n... See the book foor your last surprise!",
+"Happy Birthday and continue adulting!"]
+}
+}
+
